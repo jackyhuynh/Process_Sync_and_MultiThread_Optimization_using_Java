@@ -1,3 +1,12 @@
+# Matrix multiplication is one of the applications that can benefit much from the multithreading approach of parallelism.
+# Data distribution is an important implementation detail that, if abstracted out of a module interface, can facilitate code reuse, each of which can be given to a separate independent thread.
+# The multiplications of rows and columns can be divided over different thread workers, all of which can be joined together to make up the result matrix.
+# Different approaches can be followed, one of which is to create a thread for each Row X Column.
+# Another can be based on dividing each matrix into sub-matrices; multiplying these sub-matrices and combining their results (Apply the Pthreads under Linux and to experiments on multiplying the two matrices.)
+# Algorithm: Create a thread that works on multiplying one Row of the first matrix (A) with every column of the second matrix (B) and generate one row in the resulted matrix (C).
+# Implementation: Provide an implementation for your program and demonstrate its work under Linux. The program should implement the specification/algorithm given: written in C, and compiled with the (GCC) compiler under Linux. This program should make use of the Pthreads library. Also, comparing the calculations time with the time of the sequential multiplication approach on the same set of matrices that you achieved in HW#1 (Single Thread Execution).
+# Reference: Purdue University (2020) Operating System Exercises. Retrieved from Purdue BrightSpace
+
 #include <stdio.h>
 #include <pthread.h>
 #include <stdlib.h>

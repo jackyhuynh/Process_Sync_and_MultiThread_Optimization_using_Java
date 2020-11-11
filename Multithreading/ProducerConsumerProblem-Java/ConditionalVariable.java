@@ -1,5 +1,7 @@
 /**
- * 
+ * Truc Huynh
+ * 11/11/2020
+ * Producer Consumer Implementation
  */
 import java.util.LinkedList; 
 import java.util.Queue; 

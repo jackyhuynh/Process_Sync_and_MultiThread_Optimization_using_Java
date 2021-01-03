@@ -1,5 +1,5 @@
 
-# A guild to Multi Threading vs. Multi Processing
+# A guild to Multi Threading vs. Multi Processing & Process Synchronization
 Research paper on Multi Threading vs. Multi Processing apply on Operating System & Application. The research analyze the fundamental of multiprocess and multithreading programming. The report paper also explain the basic of how operating system functions, and OS Scheduler Algorithms . I also implement the Producer Consumer Problem using Conditional Variables to explain. This is not a full program. The research paper can be use as a good fundamental for multithreading Engineers, or embedded System Engineers.
 
 - [Please read the full research paper here](https://github.com/jackyhuynh/Java-multithreadingResearch/blob/main/Research%20on%20Multithreads%20vs.%20Multiprocess.pdf)

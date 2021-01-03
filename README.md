@@ -33,8 +33,6 @@ Explain how to run the automated tests for this system:
 
 * [Java Virtual Machine](https://java.com/en/download/)
 * [Eclipse IDE for Windows](https://www.eclipse.org/ide/)
-* [Net Bean IDE for Windows](https://netbeans.org/features/index.html)
-* [Apache Tomcat](https://tomcat.apache.org/download-80.cgi) 
 
 ## Contributing
 

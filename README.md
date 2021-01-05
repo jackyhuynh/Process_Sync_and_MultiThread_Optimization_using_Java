@@ -1,13 +1,13 @@
 
 # A guild to Multi-Threading vs. Multi-Processing & Process Synchronization
-Research paper on Multi-Threading vs. Multi-Processing applies to Operating System & Application. The research analyzes the fundamental of multiprocess and multithreading programming. The report paper also explains the basics of how operating system functions, and OS Scheduler Algorithms. I also implement the Producer-Consumer Problem using Conditional Variables to explain issues in OS Scheduler. The research paper can be used as a good reference for multithreading Engineers, or embedded System Engineers when developing Multi-Threading and Multi-Processing applications. 
+Research paper on Multi-Threading vs. Multi-Processing applies to Operating System & Application. The research analyzes the fundamental of multiprocess and multithreading programming. The report paper also explains the basics of how operating system functions, and OS Scheduler Algorithms. I also implement the Producer-Consumer Problem using Conditional Variables to explain issues in OS Scheduler. The research paper can be used as a good reference for multithreading Engineers, or embedded System Engineers when developing Multi-Threading and Multi-Processing applications.
 
-![alt]()
+![alt](https://github.com/jackyhuynh/multithreadingSynchronizationForOS/blob/main/src/picture/1.PNG)
 
 - [Please read the full research paper here](https://github.com/jackyhuynh/Java-multithreadingResearch/blob/main/Research%20on%20Multithreads%20vs.%20Multiprocess.pdf). The research paper covers the definition of process scheduler algorithm, process synchronization algorithm, multithreading definition, and programming...
 - The Linux Completely Fair Scheduler (CFS) 2.6:
 
-![alt]()
+![alt](https://github.com/jackyhuynh/multithreadingSynchronizationForOS/blob/main/src/picture/Linux.PNG)
 
 ## Technology:
 - Java

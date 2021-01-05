@@ -1,24 +1,33 @@
 
-# A guild to Multi Threading vs. Multi Processing & Process Synchronization
-Please note this is not a full program. The research paper included can be use as a good fundamental for multithreading Engineers, or embedded System Engineers. Research paper on Multi Threading vs. Multi Processing focused on Operating System & Application Development. The research analyze the fundamental of multiprocess and multithreading programming. The report paper also explain the basic of how operating system functions, and OS Scheduler Algorithms . I also implement the Producer Consumer Problem using Conditional Variables to explain. 
+# A guild to Multi-Threading vs. Multi-Processing & Process Synchronization
+Research paper on Multi-Threading vs. Multi-Processing applies to Operating System & Application. The research analyzes the fundamental of multiprocess and multithreading programming. The report paper also explains the basics of how operating system functions, and OS Scheduler Algorithms. I also implement the Producer-Consumer Problem using Conditional Variables to explain issues in OS Scheduler. The research paper can be used as a good reference for multithreading Engineers, or embedded System Engineers when developing Multi-Threading and Multi-Processing applications. 
 
-- [Please read the full research paper here](https://github.com/jackyhuynh/Java-multithreadingResearch/blob/main/Research%20on%20Multithreads%20vs.%20Multiprocess.pdf)
+![alt]()
+
+- [Please read the full research paper here](https://github.com/jackyhuynh/Java-multithreadingResearch/blob/main/Research%20on%20Multithreads%20vs.%20Multiprocess.pdf). The research paper covers the definition of process scheduler algorithm, process synchronization algorithm, multithreading definition, and programming...
+- The Linux Completely Fair Scheduler (CFS) 2.6:
+
+![alt]()
 
 ## Technology:
-Java, Multithreading, Data Structures, Multi Process.
+- Java
+- Multithreading
+- Data Structures
+- Multi-Process
+- Producer/Consumer Problems
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 What things you need to install the software and how to install them
-- Eclipse IDE: The Eclipse IDE is famous for our Java Integrated Development Environment (IDE), but we have a number of pretty cool IDEs, including our C/C++ IDE, JavaScript/TypeScript IDE, PHP IDE, and more. 
-- Java Runtime Enviroment and Java Virtual Machine: Java software for your computer, or the Java Runtime Environment, is also referred to as the Java Runtime, Runtime Environment, Runtime, JRE, Java Virtual Machine, Virtual Machine, Java VM, JVM, VM, Java plug-in, Java plugin, Java add-on or Java download.
+- Eclipse IDE: The Eclipse IDE is famous for our Java Integrated Development Environment (IDE), but we have several pretty cool IDEs, including our C/C++ IDE, JavaScript/TypeScript IDE, PHP IDE, and more. 
+- Java Runtime Environment and Java Virtual Machine: Java software for your computer, or the Java Runtime Environment, is also referred to as the Java Runtime, Runtime Environment, Runtime, JRE, Java Virtual Machine, Virtual Machine, Java VM, JVM, VM, Java plug-in, Java plugin, Java add-on or Java download.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development enviroment running.
-Download and Install Java (Java Runtime Enviroment or Java Virtual Machine)
+A step by step series of examples that tell you how to get a development environment running.
+Download and Install Java (Java Runtime Environment or Java Virtual Machine)
 * [Java for Windows](https://java.com/en/download/) - we should download and install JVM before the Eclipse IDE 
 Download and Install Eclipse IDE
 * [Install Eclipse IDE](https://www.eclipse.org/ide/) - If you haven't downloaded and installed Eclipse IDE yet, here's how to get started.
@@ -46,8 +55,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Truc Huynh** - *Initial work* - [TrucDev](https://github.com/jackyhuynh)
 
-
-## Format
+## Reference
 my README.md format was retrieved from
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
@@ -56,9 +64,5 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 

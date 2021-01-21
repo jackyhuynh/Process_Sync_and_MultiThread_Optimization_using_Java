@@ -3,7 +3,7 @@
 
 **Research paper on Multi-Threading vs. Multi-Processing** applies to Operating System & Application. The research analyzes the fundamental of multiprocess and multithreading programming. The report paper also explains the basics of how operating system functions, and OS Scheduler Algorithms. I also implement the Producer-Consumer Problem using Conditional Variables to explain issues in OS Scheduler. The research paper can be used as a good reference for multithreading Engineers, or embedded System Engineers when developing Multi-Threading and Multi-Processing applications.
 
-The source code folder also include code example of Java Multithreading that was retrieved from Udemy course "Multi threading application development using Java". These source code provided solid foudation for Java application developer. For more details please visit Udemy.com. Each folder exercise contain its own code and **Readme.md** file. Please refer to its for further details.
+The source code folder also include code example of Java Multithreading that was retrieved from Udemy course "Multi threading application development using Java". These source code provided solid foudation for Java application developer and can be applied  For more details please visit Udemy.com. Each folder exercise contain its own code and **Readme.md** file. Please refer to its for further details.
 
 Code examples for the online course [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/java-multithreading-concurrency-performance-optimization) of Author : **Michael Pogrebinsky**
 

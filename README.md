@@ -2,6 +2,15 @@
 # A guild to Multi-Threading vs. Multi-Processing & Process Synchronization
 Research paper on Multi-Threading vs. Multi-Processing applies to Operating System & Application. The research analyzes the fundamental of multiprocess and multithreading programming. The report paper also explains the basics of how operating system functions, and OS Scheduler Algorithms. I also implement the Producer-Consumer Problem using Conditional Variables to explain issues in OS Scheduler. The research paper can be used as a good reference for multithreading Engineers, or embedded System Engineers when developing Multi-Threading and Multi-Processing applications.
 
+The source code folder also include code example of Java Multithreading that was retrieved from Udemy course "Multi threading application development using Java". These source code provided solid foudation for Java application developer. For more details please visit Udemy.com
+
+Code examples for the online course [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/java-multithreading-concurrency-performance-optimization)
+
+Author : Michael Pogrebinsky
+
+
+
+
 ![alt](https://github.com/jackyhuynh/multithreadingSynchronizationForOS/blob/main/src/picture/1.PNG)
 
 - [Please read the full research paper here](https://github.com/jackyhuynh/Java-multithreadingResearch/blob/main/Research%20on%20Multithreads%20vs.%20Multiprocess.pdf). The research paper covers the definition of process scheduler algorithm, process synchronization algorithm, multithreading definition, and programming...
@@ -21,6 +30,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 What things you need to install the software and how to install them
+
+- Intellij: 
 - Eclipse IDE: The Eclipse IDE is famous for our Java Integrated Development Environment (IDE), but we have several pretty cool IDEs, including our C/C++ IDE, JavaScript/TypeScript IDE, PHP IDE, and more. 
 - Java Runtime Environment and Java Virtual Machine: Java software for your computer, or the Java Runtime Environment, is also referred to as the Java Runtime, Runtime Environment, Runtime, JRE, Java Virtual Machine, Virtual Machine, Java VM, JVM, VM, Java plug-in, Java plugin, Java add-on or Java download.
 
@@ -32,6 +43,14 @@ Download and Install Java (Java Runtime Environment or Java Virtual Machine)
 Download and Install Eclipse IDE
 * [Install Eclipse IDE](https://www.eclipse.org/ide/) - If you haven't downloaded and installed Eclipse IDE yet, here's how to get started.
 * [Install Net Bean IDE](https://netbeans.org/features/index.html) - You can use either Eclipse IDE or Net Bean IDE, not need both. If you haven't downloaded and installed Eclipse IDE yet, here's how to get started.
+* [Install Intellij](https://www.jetbrains.com/idea/)
+
+## To open the project using Intellij
+
+1. File -> New -> "Project from Existing Sources" or "Import Project".
+2. Select the project directory.
+3. Select "Create Project from Existing Sources" and click "Next" repeatedly until the last window.
+4. Click "Finish"
 
 ## Running the tests
 Explain how to run the automated tests for this system:
@@ -42,6 +61,7 @@ Explain how to run the automated tests for this system:
 
 * [Java Virtual Machine](https://java.com/en/download/)
 * [Eclipse IDE for Windows](https://www.eclipse.org/ide/)
+* [Install Intellij](https://www.jetbrains.com/idea/)
 
 ## Contributing
 

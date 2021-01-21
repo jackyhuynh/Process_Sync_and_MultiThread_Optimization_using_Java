@@ -1,15 +1,11 @@
 
 # A guild to Multi-Threading vs. Multi-Processing & Process Synchronization
-Research paper on Multi-Threading vs. Multi-Processing applies to Operating System & Application. The research analyzes the fundamental of multiprocess and multithreading programming. The report paper also explains the basics of how operating system functions, and OS Scheduler Algorithms. I also implement the Producer-Consumer Problem using Conditional Variables to explain issues in OS Scheduler. The research paper can be used as a good reference for multithreading Engineers, or embedded System Engineers when developing Multi-Threading and Multi-Processing applications.
 
-The source code folder also include code example of Java Multithreading that was retrieved from Udemy course "Multi threading application development using Java". These source code provided solid foudation for Java application developer. For more details please visit Udemy.com
+**Research paper on Multi-Threading vs. Multi-Processing** applies to Operating System & Application. The research analyzes the fundamental of multiprocess and multithreading programming. The report paper also explains the basics of how operating system functions, and OS Scheduler Algorithms. I also implement the Producer-Consumer Problem using Conditional Variables to explain issues in OS Scheduler. The research paper can be used as a good reference for multithreading Engineers, or embedded System Engineers when developing Multi-Threading and Multi-Processing applications.
 
-Code examples for the online course [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/java-multithreading-concurrency-performance-optimization)
+The source code folder also include code example of Java Multithreading that was retrieved from Udemy course "Multi threading application development using Java". These source code provided solid foudation for Java application developer. For more details please visit Udemy.com. Each folder exercise contain its own code and **Readme.md** file. Please refer to its for further details.
 
-Author : Michael Pogrebinsky
-
-
-
+Code examples for the online course [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/java-multithreading-concurrency-performance-optimization) of Author : **Michael Pogrebinsky**
 
 ![alt](https://github.com/jackyhuynh/multithreadingSynchronizationForOS/blob/main/src/picture/1.PNG)
 
@@ -84,5 +80,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Acknowledgement
 
-
+* **Purdue University** - *where I conduct the research* - [TrucDev](https://github.com/jackyhuynh)
+* **Michael Pogrebinsky** - *Code examples for the online course* [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/java-multithreading-concurrency-performance-optimization)

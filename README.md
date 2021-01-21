@@ -31,7 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What things you need to install the software and how to install them
 
-- Intellij: 
+- Intellij: Deep intelligence: After IntelliJ IDEA has indexed your source code, it offers a blazing fast and intelligent experience by giving relevant suggestions in every context: instant and clever code completion, on-the-fly code analysis, and reliable refactoring tools. Out-of-the-box experience: Mission-critical tools such as integrated version control systems and a wide variety of supported languages and frameworks are all to hand — no plugin hassle included.
 - Eclipse IDE: The Eclipse IDE is famous for our Java Integrated Development Environment (IDE), but we have several pretty cool IDEs, including our C/C++ IDE, JavaScript/TypeScript IDE, PHP IDE, and more. 
 - Java Runtime Environment and Java Virtual Machine: Java software for your computer, or the Java Runtime Environment, is also referred to as the Java Runtime, Runtime Environment, Runtime, JRE, Java Virtual Machine, Virtual Machine, Java VM, JVM, VM, Java plug-in, Java plugin, Java add-on or Java download.
 
